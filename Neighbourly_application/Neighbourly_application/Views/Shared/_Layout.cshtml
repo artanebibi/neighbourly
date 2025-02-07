@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Neighbourly</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+
+<body style="background-color: azure">
+
+    @if (ViewBag.ShowNavbar == null || ViewBag.ShowNavbar == true)
+    {
+        <nav style="background-color: azure; margin-top: -3px; " class="navbar navbar-expand-sm navbar-toggleable-sm navbar-yelloy bg-y">
+            <div class="container">
+                @Html.ActionLink("Neighbourly", "Index", "Home", new { area = "" }, new { @class = "navbar-brand", style = "color: #002C54; font-weight: bold;" })
+
+
+                <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+
+                    <ul class="navbar-nav flex-grow-1">
+
+                        <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Add role to user", "AddUserToRole", "Account", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Participants", "Index", "Participants", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Canvases", "Index", "Canvas", new { area = "" }, new { @class = "nav-link" })</li>
+
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </nav>
+    }
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Stay connected with Neighbourly</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+<style>
+
+</style>

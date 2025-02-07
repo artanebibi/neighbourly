@@ -1,0 +1,20 @@
+﻿@model Neighbourly_application.Models.AddToRoleModel
+@{
+    ViewBag.Title = "AddUserToRole";
+}
+
+<h2>Add Role To User</h2>
+
+@using (Html.BeginForm("ActuallyAdd", "Account"))
+{
+    <div class="form-control">
+
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.DropDownListFor(m => m.SelectedRole, new SelectList(Model.Roles), new { @class = "form-control" });
+
+        <button class="btn btn-danger">
+            Add Role to user
+        </button>
+    </div>
+}

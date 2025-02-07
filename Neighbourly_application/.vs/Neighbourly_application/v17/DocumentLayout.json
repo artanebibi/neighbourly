@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|c:\\users\\artan\\source\\repos\\neighbourly_application\\neighbourly_application\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|c:\\users\\artan\\source\\repos\\neighbourly_application\\neighbourly_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\canvas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\canvas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|c:\\users\\artan\\source\\repos\\neighbourly_application\\neighbourly_application\\migrations\\202408121051063_addedevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202408121051063_addedevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\canvas\\canvasoverview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\canvas\\canvasoverview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\canvas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\canvas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\controllers\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\controllers\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\canvas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\canvas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\canvasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\canvasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202408061457574_deleteparticipant2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202408061457574_deleteparticipant2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202408061240043_deleteparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202408061240043_deleteparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202408061109414_addcanvasparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202408061109414_addcanvasparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\content\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\content\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202408011714305_addparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202408011714305_addparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202408011736370_updatecanvasparticipantrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202408011736370_updatecanvasparticipantrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202407311148061_after2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202407311148061_after2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\forum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\forum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\kanbancolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\kanbancolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\kanbantask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\kanbantask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\forumcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\forumcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202407181426080_hope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202407181426080_hope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\kanbanboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\kanbanboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202407181228529_added-canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202407181228529_added-canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\canvascreation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\canvascreation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\202407081242343_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\202407081242343_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\neighbourly_application\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACBEE1-C7AE-40C1-9745-6D2CCB19139D}|Neighbourly_application\\Neighbourly_application.csproj|solutionrelative:neighbourly_application\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:29:56.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CanvasController.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\CanvasController.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Controllers\\CanvasController.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\CanvasController.cs",
+              "RelativeToolTip": "Neighbourly_application\\Controllers\\CanvasController.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAuwAIBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:29:42.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Neighbourly_application\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:38:55.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanvasOverview.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\CanvasOverview.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Canvas\\CanvasOverview.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\CanvasOverview.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Canvas\\CanvasOverview.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:21:30.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:52:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T12:39:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Canvas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\Index.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Canvas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T17:18:20.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202408121051063_addedEvents.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408121051063_addedEvents.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202408121051063_addedEvents.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408121051063_addedEvents.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202408121051063_addedEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:51:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Event.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\Event.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:54:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Canvas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\Edit.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Canvas\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:24:52.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Canvas.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\Canvas.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Canvas.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\Canvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:47:08.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "Neighbourly_application\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvykAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:25:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Participant.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:56:58.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Canvas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Canvas\\Create.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Canvas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:55:17.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CanvasViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\CanvasViewModel.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\CanvasViewModel.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\CanvasViewModel.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\CanvasViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:07:05.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T12:06:31.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202408061457574_deleteParticipant2.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408061457574_deleteParticipant2.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202408061457574_deleteParticipant2.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408061457574_deleteParticipant2.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202408061457574_deleteParticipant2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:58:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202408061240043_deleteParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408061240043_deleteParticipant.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202408061240043_deleteParticipant.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408061240043_deleteParticipant.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202408061240043_deleteParticipant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:40:10.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA+wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:59:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202408061109414_AddCanvasParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408061109414_AddCanvasParticipant.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202408061109414_AddCanvasParticipant.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408061109414_AddCanvasParticipant.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202408061109414_AddCanvasParticipant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:09:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:59:50.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Content\\Site.css",
+              "RelativeToolTip": "Neighbourly_application\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T11:20:52.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "helper.css",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Content\\helper.css",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Content\\helper.css",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Content\\helper.css",
+              "RelativeToolTip": "Neighbourly_application\\Content\\helper.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T11:20:46.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "202408011714305_addParticipants.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408011714305_addParticipants.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202408011714305_addParticipants.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408011714305_addParticipants.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202408011714305_addParticipants.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:14:34.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "202408011736370_UpdateCanvasParticipantRelation.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408011736370_UpdateCanvasParticipantRelation.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202408011736370_UpdateCanvasParticipantRelation.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202408011736370_UpdateCanvasParticipantRelation.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202408011736370_UpdateCanvasParticipantRelation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:36:41.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "202407311148061_after2.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407311148061_after2.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202407311148061_after2.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407311148061_after2.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202407311148061_after2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:48:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Neighbourly_application\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAMMBAAAAAAAAAABRwMYBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:06.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Forum.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Forum.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\Forum.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\Forum.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\Forum.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:54:15.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KanbanColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\KanbanColumn.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\KanbanColumn.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\KanbanColumn.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\KanbanColumn.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:03:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KanbanTask.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\KanbanTask.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\KanbanTask.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\KanbanTask.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\KanbanTask.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:00:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ForumComment.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\ForumComment.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\ForumComment.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\ForumComment.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\ForumComment.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:12:20.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202407181426080_hope.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407181426080_hope.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202407181426080_hope.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407181426080_hope.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202407181426080_hope.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:26:12.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KanbanBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\KanbanBoard.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\KanbanBoard.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\KanbanBoard.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\KanbanBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:31:11.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "202407181228529_added-canvas.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407181228529_added-canvas.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202407181228529_added-canvas.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407181228529_added-canvas.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202407181228529_added-canvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:28:57.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "canvasCreation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\canvasCreation.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\canvasCreation.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\canvasCreation.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\canvasCreation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:42:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Models\\ManageViewModels.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "Neighbourly_application\\Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:25:44.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddUserToRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Views\\Account\\AddUserToRole.cshtml",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeToolTip": "Neighbourly_application\\Views\\Account\\AddUserToRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:28:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "202407081242343_init.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407081242343_init.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\202407081242343_init.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\202407081242343_init.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\202407081242343_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:42:37.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Neighbourly_application\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Artan\\source\\repos\\Neighbourly_application\\Neighbourly_application\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Neighbourly_application\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:42:00.254Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

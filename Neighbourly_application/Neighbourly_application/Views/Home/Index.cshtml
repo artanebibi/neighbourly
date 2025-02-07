@@ -1,0 +1,359 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Home Page";
+    var canvasNames = ViewBag.UserCanvases as List<Neighbourly_application.Models.Canvas>;
+    var associateNames = ViewBag.AssociateCanvases as List<Neighbourly_application.Models.Canvas>;
+}
+
+<main style="background-size: cover; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 20px; box-shadow: 1.4px 2.9px 2.9px hsl(0deg 0% 0% / 0.46); border: 1px solid grey; margin-top:40px" ;>
+    <h2 style="font-size: 2em; color: #333; text-align: center; margin-bottom: 20px;">
+        Welcome to Neighbourly, your All-In-One Project Management Solution
+    </h2>
+
+    <br />
+
+    <div style="font-size: 1.1em; line-height: 1.6; color: #555;">
+        Streamline your project management with Neighbourly. Our platform is designed to enhance collaboration, boost productivity, and ensure seamless communication for teams of all sizes.
+        <br /><br />
+        <strong>Features of the platform:</strong>
+        <br /><br />
+        <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #002C54">Kanban Boards:</strong> Organize tasks efficiently with our intuitive Kanban boards. Visualize your workflow and track progress in real-time.
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #002C54">Event Calendars:</strong> Keep everyone on the same page with event calendars. Team leaders can create events, and all participants can stay updated with upcoming deadlines and milestones.
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #002C54">Chat and Messaging:</strong> Communicate effortlessly with individual or group chats. Stay connected with your team and ensure no message goes unnoticed.
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #002C54">Discussion Forums:</strong> Engage in meaningful discussions with our fully-featured forums. Create threads, post comments, and reply to keep the conversation going.
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #002C54">Resource Library:</strong> Share and access essential resources in one centralized location. Upload, download, and manage files needed to complete your project successfully.
+            </li>
+        </ul>
+    </div>
+</main>
+
+<br />
+<br />
+
+
+
+
+<main style="background-size: cover; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 20px; box-shadow: 1.4px 2.9px 2.9px hsl(0deg 0% 0% / 0.46); border: 1px solid grey">
+
+    <div class="teamLeaderSection">
+        <h3>Your Canvases as a Team Leader</h3>
+        <ul class="canvasList" style="list-style-type: none; padding: 0;">
+            @if (canvasNames != null && canvasNames.Any())
+            {
+                foreach (var canvas in canvasNames)
+                {
+                    <li style="margin-bottom: 10px;">
+                        <div class="card">
+                            <div class="bar"></div>
+                            <div class="card_form"></div>
+                            <div class="card_data">
+                                <div class="data">
+                                    <div class="text">
+                                        <label class="text_m">@canvas.Name</label>
+                                        <div class="cube text_s">
+                                            <label class="side front">LEADER_ID</label>
+                                            <label class="side top">@canvas.TeamLeader.Email</label>
+                                        </div>
+                                        <label class="text_d">@canvas.Description</label>
+                                    </div>
+                                </div>
+                                <a class="hover-effect" style="color: lightblue; text-decoration: none" href="/Canvas/CanvasOverview/@canvas.Id">Access!</a>
+                            </div>
+                        </div>
+                    </li>
+                }
+            }
+            else
+            {
+                <li style="margin-bottom: 10px;">You have no canvases.</li>
+            }
+        </ul>
+    </div>
+
+    <div class="teamAssociateSection">
+        <h3>Your Canvases as a Team Associate</h3>
+        <ul class="canvasList" style="list-style-type: none; padding: 0;">
+            @if (associateNames != null && associateNames.Any())
+            {
+                foreach (var canvas in associateNames)
+                {
+                    <li style="margin-bottom: 10px;">
+                        <div class="card">
+                            <div class="bar"></div>
+                            <div class="card_form"></div>
+                            <div class="card_data">
+                                <div class="data">
+                                    <div class="text">
+                                        <label class="text_m">@canvas.Name</label>
+                                        <div class="cube text_s">
+                                            <label class="side front">LEADER_ID</label>
+                                            <label class="side top">@canvas.TeamLeader.Email</label>
+                                        </div>
+                                        <label class="text_d">@canvas.Description</label>
+                                    </div>
+                                </div>
+                                <a class="hover-effect" style="color: lightblue; text-decoration: none" href="/Canvas/CanvasOverview/@canvas.Id">Access!</a>
+                            </div>
+                        </div>
+                    </li>
+                }
+            }
+            else
+            {
+                <li style="margin-bottom: 10px;">You have no canvases.</li>
+            }
+        </ul>
+    </div>
+
+</main>
+
+
+
+
+
+@{
+    if (User.Identity.IsAuthenticated)
+    {
+        <br />
+        <h3 style="text-align: center">Add a new canvas</h3>
+
+        <div class="containerrr">
+            <br />
+            <button class="buttonArtan" onclick="window.location.href='@Url.Action("Create", "Canvas")'">
+                <span class="sign">+</span>
+                <span class="text_art">Canvas</span>
+            </button>
+        </div>
+
+
+    }
+    else
+    {
+        <br />
+        <br />
+        <br />
+        <h3>Please log in to create a canvas as a Team Leader!</h3>
+    }
+}
+
+
+<style>
+
+    .hover-effect {
+        position: relative;
+        transition: color 0.3s ease;
+    }
+
+        .hover-effect::after {
+            content: '';
+            position: absolute;
+            width: 0%;
+            height: 2px;
+            bottom: 0;
+            left: 0;
+            background-color: lightblue;
+            transition: width 0.3s ease;
+        }
+
+        .hover-effect:hover {
+            color: white;
+        }
+
+            .hover-effect:hover::after {
+                width: 100%;
+            }
+
+
+    .canvasList {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .card {
+        flex: 1 1 auto;
+        min-width: 250px;
+    }
+
+    .containerrr {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        position: relative;
+        display: flex;
+        width: 350px;
+        background-color: #002C54;
+        padding: 10px;
+        border-radius: 6px;
+        gap: 0.5rem;
+        height: max-content;
+    }
+
+    .bar {
+        width: 10px;
+        border-radius: 5px;
+        background-color: white;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .card:hover .bar {
+        margin-right: 5px;
+    }
+
+    .card_form {
+        position: relative;
+        min-width: 5em;
+        min-height: 5em;
+        border-radius: 4px;
+        background-color: lightblue;
+        transition: 0.2s ease-in-out;
+        overflow: hidden;
+    }
+
+    .card_data {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+        .card_data span {
+            color: lightblue;
+            margin-top: auto;
+            font-size: 0.9em;
+            transition: 0.2s ease-in-out;
+            cursor: pointer;
+        }
+
+            .card_data span:hover {
+                color: #28aea5;
+                text-decoration: underline;
+            }
+
+    .text {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 0.5em;
+        color: white;
+    }
+
+    .text_m {
+        font-size: 0.9em;
+    }
+
+    .text_s {
+        color: lightblue;
+        font-size: 0.6em;
+    }
+
+    .text_d {
+        font-size: 0.7em;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+    }
+
+    .cube {
+        width: max-content;
+        height: 10px;
+        transition: all 0.2s;
+        transform-style: preserve-3d;
+    }
+
+    .card:hover .cube {
+        transform: rotateX(90deg);
+    }
+
+    .side {
+        width: max-content;
+        height: 1em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-weight: bold;
+    }
+
+    .top {
+        transform: rotateX(-90deg) translate3d(0, 0, 0em);
+    }
+
+    .front {
+        transform: translate3d(0, 0, 1em);
+    }
+
+    .buttonArtan {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        width: 50px;
+        height: 50px;
+        border: none;
+        border-radius: 0px;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+        transition-duration: .3s;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.199);
+        background-color: #002C54;
+    }
+
+    .sign {
+        width: 100%;
+        font-size: 2em;
+        color: white;
+        transition-duration: .3s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .text_art {
+        position: absolute;
+        right: 0%;
+        width: 0%;
+        opacity: 0;
+        color: white;
+        font-size: 1.2em;
+        font-weight: 500;
+        transition-duration: .3s;
+    }
+
+    .buttonArtan:hover {
+        width: 125px;
+        border-radius: 0px;
+        transition-duration: .3s;
+    }
+
+        .buttonArtan:hover .sign {
+            width: 30%;
+            transition-duration: .3s;
+            padding-left: 20px;
+        }
+
+        .buttonArtan:hover .text_art {
+            opacity: 1;
+            width: 70%;
+            transition-duration: .3s;
+            padding-right: 20px;
+        }
+
+    .buttonArtan:active {
+        transform: translate(2px,2px);
+    }
+</style>
